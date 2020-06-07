@@ -42,7 +42,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 
 - O layout está disponível no **[Figma](https://www.figma.com/file/1SxgOMojOB2zYT0Mdk28lB/)**;
 
-## <a hfre='https://www.youtube.com/watch?v=Vy96B0IjAso' target='_blank'> :movie_camera: Vídeo de Demonstração</a>
+## :movie_camera: <a hfre='https://www.youtube.com/watch?v=Vy96B0IjAso' target='_parent'> Vídeo de Demonstração</a>
 
 <a id="como-usar"></a>
 
