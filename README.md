@@ -38,8 +38,13 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 
 ## :heavy_check_mark: Resultado:
 
+<img alt="Logo" title="#logo" width="750px" src=".readme/app.jpeg">
+
 - O layout está disponível no **[Figma](https://www.figma.com/file/1SxgOMojOB2zYT0Mdk28lB/)**;
 
+## :movie_camera: Vídeo de Demonstração
+
+https://www.youtube.com/watch?v=Vy96B0IjAso
 <a id="como-usar"></a>
 
 ## :fire: Como usar
