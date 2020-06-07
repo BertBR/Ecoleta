@@ -42,9 +42,8 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 
 - O layout está disponível no **[Figma](https://www.figma.com/file/1SxgOMojOB2zYT0Mdk28lB/)**;
 
-## :movie_camera: Vídeo de Demonstração
+## <a hfre='https://www.youtube.com/watch?v=Vy96B0IjAso' target='_blank'> :movie_camera: Vídeo de Demonstração</a>
 
-https://www.youtube.com/watch?v=Vy96B0IjAso
 <a id="como-usar"></a>
 
 ## :fire: Como usar
